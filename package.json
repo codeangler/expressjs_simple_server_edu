@@ -1,0 +1,25 @@
+{
+  "name": "expressjs_simple_server_edu",
+  "version": "1.0.0",
+  "description": "perpetual learing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeangler/expressjs_simple_server_edu.git"
+  },
+  "author": "Casey Burnett",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/codeangler/expressjs_simple_server_edu/issues"
+  },
+  "homepage": "https://github.com/codeangler/expressjs_simple_server_edu#readme"
+}
